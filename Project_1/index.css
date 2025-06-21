@@ -1,0 +1,25 @@
+h1{
+    text-decoration: underline;
+}
+.image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.read-more {
+  color: black;
+}
+
+.more-image{
+    color: black;
+    margin-right: 10px;
+}
+
+section{
+  padding: 10px;
+  margin: 10px;
+}
+.intro{
+    border:1px solid black;
+}
